@@ -14,7 +14,7 @@ def garden_operations(operation_number: int) -> None:
         return
 
 
-def test_error_types():
+def test_error_types() -> None:
     numbers = [0, 1, 2, 3, 4]
     for num in numbers:
         print(f"Testing operation {num}...")
