@@ -2,7 +2,7 @@
 
 
 class PlantError(Exception):
-    def __init__(self, message="Unknown plant error"):
+    def __init__(self, message: str = "Unknown plant error") -> None:
         super().__init__(message)
 
 
