@@ -1,7 +1,6 @@
 # Conceitos de exceções para a avaliação (lista 2)
 
-Todos os exemplos foram testados no Python 3. Sempre que possível, uso o seu próprio código da lista 2.
-A conferência do código (nomes, flake8, mypy) está em [lista2_revisao.md](lista2_revisao.md).
+Todos os exemplos foram testados no Python 3.
 
 ---
 
